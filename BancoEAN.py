@@ -1,5 +1,5 @@
 """
-prueba2
+Juandabu
 """
 persona=                 ['clark kent', 'Bruce Wane'   ]
 usuario=                 ['superman'  , 'batman'       ]
