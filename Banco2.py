@@ -1,4 +1,4 @@
-#El administrador del banco tiene nombre de usuario "administrador" y clave "1234"
+2#El administrador del banco tiene nombre de usuario "administrador" y clave "1234"
 persona=                 ['clark kent', 'Bruce Wane'   ]
 usuario=                 ['superman'  , 'batman'       ]
 contraseña=              [1111        , 2222           ] 
@@ -99,7 +99,7 @@ while(True):
                 
             else:
                 print("El usuario ingresado no está en nuestra base de datos")
-        if opcion == 3:
+        elif opcion == 3:
             print("\n")
             print("INICIO DE SESIÓN ADMINISTRADOR DEL BANCO")
             print("ingrese usuario:")
