@@ -1,2 +1,2 @@
 language = "python3"
-run = "python BancoEAN.py"
+run = "python Banco2.py"
