@@ -152,7 +152,7 @@ while(True):
         if opcion in [1,2,3,4,5]:
             if estado_sesion[indice] =='activa':
                 if  opcion==1:
-                    print("Saldo en cuenta",tipo_de_cuenta[indice_cta]," N°",numero_de_cuenta[indice] ,":",dinero[indice] )
+                    print("Saldo en cuenta",tipo_de_cuenta[indice]," N°",numero_de_cuenta[indice] ,":",dinero[indice] )
                 elif  opcion==2:
                     while(True):
                         try:
